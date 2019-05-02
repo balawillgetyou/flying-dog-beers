@@ -8,7 +8,7 @@ beers=['Chesapeake Thin', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
 
 bitterness = go.Bar(
     x=beers,
-    y=[35, 60, 85, 75],
+    y=[5, 60, 85, 75],
     name='IBU',
     marker={'color':'green'}
 )
